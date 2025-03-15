@@ -1,0 +1,9 @@
+\t (00:00:42) allegro 17.2 S025 Windows SPB 64-bit Edition
+\t (00:00:42)     Journal start - Thu Dec 26 15:55:33 2024
+\t (00:00:42)         Host=DESKTOP-AITN8TS User=Sorin Pid=13620 CPUs=4
+\t (00:00:42) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:42) 
+\d (00:00:42) Design opened: C:/Users/Sorin/OneDrive/Desktop/P1_2024_Munteanu_AlessiaGST_N11_LTSpice/P1_2024_434C_Munteanu_Alessia_GST_N11_ORCAD/Layout/P1_Munteanu_Alessia.brd
+\i (00:00:42) generaledit 
+\i (00:01:07) exit 
+\t (00:01:07)     Journal end - Thu Dec 26 15:55:58 2024
